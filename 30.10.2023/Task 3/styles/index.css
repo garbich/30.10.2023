@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(241, 240, 240);
+}
+
+.div{
+    background-color: rgb(203, 200, 200);
+    color: rgb(193, 52, 52);
+    display: inline;
+}
+
+.red{
+    background-color: rgb(203, 200, 200);
+    color: rgb(193, 52, 52);
+
+}
+
+.black{
+    display: inline;
+    color: black;
+}
+
+.tags{
+    display: inline;
+    background-color: rgb(203, 200, 200);
+   
+}
+
+.blue{
+    display: inline;
+    color: rgb(47, 188, 201);
+    
+}
+
